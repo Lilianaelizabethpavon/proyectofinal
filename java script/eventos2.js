@@ -1,3 +1,4 @@
+@@ -0,0 +1,62 @@
 function enAmarillo1() {
     Element =document.getElementById("pers");
     Element.src="img/iconopersonal1.png ";
