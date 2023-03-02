@@ -6,7 +6,7 @@
     }
 
     .degrade {
-        background: linear-gradient(180deg, rgb(86, 106, 106), rgb(33, 241, 235));
+        background: linear-gradient(180deg, rgb(33, 241, 235), rgb(255, 255, 255));
         margin: 0px 0px 20px 80px;
         max-width: 100%;
         height: auto;
@@ -57,7 +57,7 @@
     }
 
     .caja {
-        background: linear-gradient(180deg, rgb(86, 106, 106), rgb(33, 241, 235));
+        background: linear-gradient(180deg, rgb(33, 241, 235), rgb(255, 255, 255));
         border-radius: 20px;
         height: auto;
         max-width: 90%;
